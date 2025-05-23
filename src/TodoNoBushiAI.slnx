@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TodoNoBushiAI.Application/TodoNoBushiAI.Application.csproj" />
+  <Project Path="TodoNoBushiAI.Infrastructure/TodoNoBushiAI.Infrastructure.csproj" />
+</Solution>

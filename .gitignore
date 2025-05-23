@@ -1,0 +1,14 @@
+
+# MacOS's specific files.
+.DS_Store
+
+# .Net project's specific files.
+**/bin
+**/obj
+**/*.usr
+
+
+# IDE's specific files.
+**/.vs
+**/.vscode
+**/.idea
