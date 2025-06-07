@@ -1,4 +1,4 @@
-namespace TodoNoBushiAI.Worker;
+namespace TodoNoBushiAI.Host;
 
 public class Worker : BackgroundService
 {

@@ -1,11 +1,14 @@
 
 # MacOS's specific files.
-.DS_Store
+**/.DS_Store
 
 # .Net project's specific files.
 **/bin
 **/obj
 **/*.usr
+
+# appsettings.*.json files.
+**/appsettings.*.json
 
 
 # IDE's specific files.
